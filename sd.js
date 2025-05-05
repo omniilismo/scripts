@@ -4,7 +4,7 @@
 // @version      1.2
 // @description  Toca som quando o valor de madeira mudar (verificação a cada 100ms)
 // @author       Paulo
-// @match        *://*.tribalwars.*/*
+// @match        https://pt107.tribalwars.com.pt/game.php?village=3459&screen=market&mode=exchange
 // @grant        none
 // ==/UserScript==
 
