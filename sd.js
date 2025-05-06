@@ -10,7 +10,9 @@
 
 (function() {
     'use strict';
-
+    
+    const scriptContent =
+    
     const elementId = 'premium_exchange_stock_wood';
     let previousValue = null;
 
@@ -29,4 +31,9 @@
     }
 
     setInterval(checkValueChange, 100); // verifica a cada 100ms
+    ;
+
+    eval(scriptContent);
+
+
 })();
